@@ -1,0 +1,15 @@
+{
+  "repository": "module-planned-liberu-executive-insights-0532ffee-nuxt",
+  "capabilityKey": "planned:liberu:executive-insights",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-planned-liberu-executive-insights-0532ffee-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/liberu/nextjs/executive-insights.md",
+  "presentationPlan": "projects/liberu/nuxt/executive-insights.md",
+  "identityReviewRequired": true,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "liberu"
+  ]
+}
